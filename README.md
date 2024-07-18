@@ -1,4 +1,4 @@
-# pplx-vercel-ai-sdk
+# capmeme-ai
 
 To install dependencies:
 
